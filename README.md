@@ -1,5 +1,5 @@
 # BII-Land-Use-and-Intensity-for-Sub-Saharan-Africa
-![alt text](https://github.com/Geethen/BII-Land-Use-and-Intensity-for-Sub-Saharan-Africa/tree/main/web_header.png?raw=true)
+![](web_header.png)
 
 [Project website](https://bii4africa.org/)
 
