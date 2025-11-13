@@ -14,7 +14,7 @@ The Data extraction for all countries need to be executed before proceeding to t
 ### High-level steps
 1. sub saharan african countries are identified (filtered)
 2. A grid is created for the country of interest
-3. All variables (Refer to list of variables.docx) required are extracted from Google Earth Engine at the aggregated 1km scale
+3. All variables (Refer to list of variables in Extended Data Table 2 in research paper) required are extracted from Google Earth Engine at the aggregated 1km scale
 4. Datasets are combined and pre-processed. Includes, filling in missing data, scaling data and correcting data types.
 5. The expert decision tree is applied that outputs a land use for every point
 6. Data is scaled and the intensity scores are computed
