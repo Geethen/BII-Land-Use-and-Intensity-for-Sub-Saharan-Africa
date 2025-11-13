@@ -1,4 +1,6 @@
 # BII-Land-Use-and-Intensity-for-Sub-Saharan-Africa
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17597480.svg)](https://doi.org/10.5281/zenodo.17597480)
+
 ![](web_header.png)
 
 [Project website](https://bii4africa.org/)
